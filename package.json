@@ -1,0 +1,16 @@
+{
+  "name": "coinmap-venues-csv",
+  "version": "1.0.0",
+  "description": "get venues from coinmap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "json2csv": "^3.11.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
